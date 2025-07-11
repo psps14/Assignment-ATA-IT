@@ -30,7 +30,7 @@
 <!--            <groupId>org.seleniumhq.selenium</groupId>-->
 <!--            <artifactId>selenium-java</artifactId>-->
 <!--            <version>4.24.0</version>-->
-        </dependency>
+<!--        </dependency>-->
         <dependency>
             <groupId>ru.yandex.qatools.ashot</groupId>
             <artifactId>ashot</artifactId>
